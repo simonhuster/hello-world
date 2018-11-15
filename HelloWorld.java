@@ -8,4 +8,9 @@ public class HelloWorld {
                 return i;
             }
         }
+		
+		public newconstructer(String value)
+		{
+			System.out.println("Hello Constructer")
+		}
 }
